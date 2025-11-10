@@ -1,0 +1,14 @@
+nx,180
+ny,120
+porosity,0.55
+smoothing,2
+seed,42
+tau,1.0
+fx,5e-7
+fy,0.0
+rho0,1.0
+steps,2000
+steady_tol,1e-7
+steady_window,200
+progress_every,100
+u_clip,0.1
